@@ -1,6 +1,6 @@
 # AWS-S3-image-upload-spring-boot-app
 
-A java spring-boot photo uploading app which saves all the photos uploaded from a simple User Interface to an AWS S3 Bucket. 
+A java spring-boot photo uploading app which saves all the photos uploaded from a simple UI to an AWS S3 Bucket. 
 
 Below AWS services are used to achieve the functionality.
 1. AWS EC2
